@@ -1,0 +1,10 @@
+{
+  "name": "START Triage Simulator",
+  "short_name": "START Triage",
+  "description": "Simulador de triagem START para treinamento.",
+  "start_url": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#09090b",
+  "theme_color": "#09090b"
+}
